@@ -83,6 +83,9 @@ section{padding-block:clamp(64px,10vw,120px)}
 .tile .status{color:var(--mist);font-size:.95rem}
 .tile .btn{margin-top:1.8rem}
 .tile-hinode{background:radial-gradient(520px 340px at 72% 105%,rgba(34,211,238,.38),rgba(34,211,238,0) 70%),#000}
+.tile-malie{background:radial-gradient(520px 340px at 72% 105%,rgba(232,102,79,.30),rgba(232,102,79,0) 70%),#f5efe6}
+.tile-icon{display:flex;justify-content:center;align-items:center;padding:32px}
+.tile-icon img{width:min(62%,230px);height:auto;border-radius:22.5%;box-shadow:0 30px 90px rgba(232,102,79,.28)}
 .tile-shot{display:flex;justify-content:center;align-items:flex-start;padding-top:56px;max-height:460px}
 .tile-shot .phone{width:290px;margin:0}
 .tile-next{grid-template-columns:auto 1fr auto;min-height:0;align-items:center;gap:28px;padding:clamp(24px,3.5vw,40px);background:var(--panel);border:1.5px dashed var(--line)}
