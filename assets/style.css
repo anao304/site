@@ -11,6 +11,7 @@
 @font-face{font-family:"Figtree";src:url(/assets/fonts/figtree-latin-ext-600-normal.woff2) format("woff2");font-weight:600;font-display:swap;unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
 :root{--max:1120px;--gutter:clamp(20px,5vw,48px)}
 .t-hinode{--night:#000;--ink:#fff;--dawn:#22d3ee;--on-dawn:#000;--mist:#9aa6b0;--panel:#0e1114;--line:#20262c;color-scheme:dark}
+.t-malie{--night:#f5efe6;--ink:#000;--dawn:#e8664f;--on-dawn:#000;--mist:#5b6672;--panel:#fffcf7;--line:#e6dccb;color-scheme:light}
 .t-studio{--night:#f2f3ef;--ink:#121417;--dawn:#121417;--on-dawn:#fff;--mist:#5c6268;--panel:#fafbf8;--line:#d6d9d2;color-scheme:light}
 *{box-sizing:border-box;margin:0;padding:0}
 html{background:var(--night);-webkit-text-size-adjust:100%}
